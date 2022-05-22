@@ -24,3 +24,5 @@ You can safely delete the "decrypt" folder. When you want to decrypt, just pass 
 This tool is extremely fast as it is written in C++. For java version check my https://github.com/leogitpub/OMFE repository.
 
 Star this project if you used it and liked it.
+
+sha256 checksum of this tool omfe.exe => 21639c4693515b40fdf12a9b5d9b2c8b665ea5d4552e7cec6531b9518dba0c38
