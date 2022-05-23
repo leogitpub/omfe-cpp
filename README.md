@@ -18,11 +18,11 @@ Check this path in windows. I have created a folder named 'decrypt' and it conta
 ![image](https://user-images.githubusercontent.com/40391497/169683897-d86f0dd9-10f2-4585-9310-6d88af3c9875.png)
 
 
-I run this command `omfe.exe enc -k 12121212121212121212121212121212 -iv 10101010101010101010101010101010 -m cbc -s 128 C:\Users\DELL\Music\some_folder`. Note all options tags are optional except the folderpath. This is what you will get.
+I run this command `omfe.exe enc -k !qwRe93%&(isYhHg -iv dss&hfy&8P)hd^YH -m cbc -s 128 C:\Users\DELL\Music\some_folder`. Note all options tags are optional except the folderpath. This is what you will get.
 
 ![image](https://user-images.githubusercontent.com/40391497/169684129-1db8fd77-fc8a-40d1-9015-da743ff28151.png)
 
-You can safely delete the "decrypt" folder. When you want to decrypt, just pass the same command as passed for encrypt but with `dec` argument, like this `omfe.exe dec -k 12121212121212121212121212121212 -iv 10101010101010101010101010101010 -m cbc -s 128 C:\Users\DELL\Music\some_folder`
+You can safely delete the "decrypt" folder. When you want to decrypt, just pass the same command as passed for encrypt but with `dec` argument, like this `omfe.exe dec -k !qwRe93%&(isYhHg -iv dss&hfy&8P)hd^YH -m cbc -s 128 C:\Users\DELL\Music\some_folder`
 
 This tool is extremely fast as it is written in C++. For java version check my https://github.com/leogitpub/OMFE repository.
 
