@@ -28,7 +28,7 @@ This tool is extremely fast as it is written in C++. For java version check my h
 
 Star this project if you used it and liked it.
 
-sha256 checksum of this tool omfe.exe => 0ed5b0c34945f315dd5544e7549ba4b22974d8f1be19b597d5b9caa29374e2b4
+sha256 checksum of this tool omfe.exe => fb0a7f780b7eda09318ee4611cf2654bdc923315e7f72c073dd1733044f7ebc9
 
 cygwin1.dll checksum => 6ad6c03ac893bce8aeb65362c7615b7c74d457276ce6bdcde40a110178267fa3
 
