@@ -35,7 +35,7 @@ Star this project if you used it and liked it.
 
 sha256 checksum of this tool omfe-cyg.exe => fb0a7f780b7eda09318ee4611cf2654bdc923315e7f72c073dd1733044f7ebc9
 
-sha256 checksum of this tool omfe-msys.exe => 01e6e7b7cdf312ad5514fadfd22ba38aae30813579a40043a6fba6eb3aab3694
+sha256 checksum of this tool omfe-msys.exe => bb538e3da22e163ca1524218567fecf303eb6198b8222812654c636e93c65773
 
 cygwin1.dll checksum => 6ad6c03ac893bce8aeb65362c7615b7c74d457276ce6bdcde40a110178267fa3
 
