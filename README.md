@@ -4,7 +4,8 @@ This is OMFE AES, a powerful file encryption/decryption tool which uses AES 256 
 `Note:` This tool use multi-threading while operating on files. This is not a destructive program in any manner. It neither creates unnecessary files nor deletes any files. The tool is absolutely safe and it works on any type of machine. The author only distributes compiled executable and not source files. There is no need to make and install.
 
 `For Windows users:` (Recommended to use omfe-msys.exe)
-  To use the cygwin version: You need to download omfe-cyg.exe and cygwin1.dll in one location. omfe.exe won't run without cygwin1.dll.
+
+  To use the cygwin version: You need to download omfe-cyg.exe and cygwin1.dll in one location. omfe-cyg.exe won't run without cygwin1.dll.
   
   To use the msys2 version. You need to download omfe-msys.exe.
   
