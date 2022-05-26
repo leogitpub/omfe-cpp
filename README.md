@@ -16,8 +16,10 @@ This is OMFE AES, a powerful file encryption/decryption tool which uses AES 256 
   2. Move all the files and folder into this “decrypt” folder.
   3. Run the application omfe.exe with command line arguments. To find the command line arguments type “omfe.exe  --help”.
   4. To decrypt, follow the same process as encrypt but in reverse.
-
-example: 
+  
+  #### To generate of Highly Secure Random Password, type "omfe.exe --gen-key n" where n = no of bytes to generate.  
+  
+Demo: 
 
 Check this path in windows. I have created a folder named 'decrypt' and it contains this directory structure
 ![image](https://user-images.githubusercontent.com/40391497/169683897-d86f0dd9-10f2-4585-9310-6d88af3c9875.png)
@@ -35,7 +37,7 @@ Star this project if you used it and liked it.
 
 sha256 checksum of this tool omfe-cyg.exe => fb0a7f780b7eda09318ee4611cf2654bdc923315e7f72c073dd1733044f7ebc9
 
-sha256 checksum of this tool omfe-msys.exe => bb538e3da22e163ca1524218567fecf303eb6198b8222812654c636e93c65773
+sha256 checksum of this tool omfe-msys.exe => 2de5679107e014413486490a323719c3585dbe0a3754b9ba111c3e47c4848d78
 
 cygwin1.dll checksum => 6ad6c03ac893bce8aeb65362c7615b7c74d457276ce6bdcde40a110178267fa3
 
